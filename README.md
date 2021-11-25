@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @taghanaki (Javad Khodadadi)
 - 👀 I’m interested in AI, ML, DataMining and ...
-- 🌱 I’m currently learning CNN
